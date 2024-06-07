@@ -1,0 +1,8 @@
+#include "resource.h"
+
+cat   RCDATA "cat.exe"
+mv    RCDATA "mv.exe"
+cp    RCDATA "cp.exe"
+rm    RCDATA "rm.exe"
+clear RCDATA "clear.exe"
+ls    RCDATA "ls.exe"
